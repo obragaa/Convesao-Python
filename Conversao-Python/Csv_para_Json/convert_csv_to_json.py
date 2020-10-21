@@ -1,7 +1,7 @@
 import json, csv
 
 csvFilePath = "/Users/Edgar/Desktop/Conversão/Csv_para_Json/shopping.csv" # Local do arquivo csv na minha máquina
-jsonFilePath = "shopping.json" # Nome que virá após solicitarmos nosso arquivo já convertido em Json
+jsonFilePath = "Csv_Convertido.json" # Nome que virá após solicitarmos nosso arquivo já convertido em Json
 
 data = {} #Conversão
 with open(csvFilePath) as csvFile:
