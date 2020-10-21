@@ -1,0 +1,60 @@
+{ 
+	"order": [
+		{
+			"id": 1,
+			"name": "Camisa",
+			"description": "Camisa Social Preta",
+			"quantity": 3,
+			"value": 56.50
+		},
+		{
+			"id": 2,
+			"name": "Regata",
+			"description": "Regata 100% Algodão",
+			"quantity": 6,
+			"value": 9.99
+		},
+		{
+			"id": 3,
+			"name": "Saia Rodada",
+			"description": "Saia Rodada Rosa",
+			"quantity": 2,
+			"value": 29.90
+		},
+		{
+			"id": 4,
+			"name": "Meia",
+			"description": "Meia branca",
+			"quantity": 3,
+			"value": 5.00
+		},
+		{
+			"id": 5,
+			"name": "Gorro",
+			"description": "Gorro Preto",
+			"quantity": 1,
+			"value": 12.00
+		},
+		{
+			"id": 6,
+			"name": "Moletom",
+			"description": "Moletom Adidas",
+			"quantity": 1,
+			"value": 119.95
+		},
+		{
+			"id": 7,
+			"name": "Bermuda",
+			"description": "Bermuda Ciclone",
+			"quantity": 3,
+			"value": 35.00
+		},
+		{
+			"id": 8,
+			"name": "Tênis",
+			"description": "Tênis Nike Shox",
+			"quantity": 1,
+			"value": 450.00
+		}
+	]
+}
